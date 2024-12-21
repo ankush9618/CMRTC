@@ -1,0 +1,113 @@
+
+.nav-bar .nav2{
+    display: flex;
+    justify-content: space-between;
+    padding: 0;
+    position: relative;
+    z-index: 1000;
+    background-color: white;
+}
+.nav2 .list-items2{
+    display: flex;
+    list-style: none;
+    padding-left: 100px;
+    padding-top: 30px;
+}
+.nav2 .right{
+    background-color: white;
+}
+.nav2 ul{
+    display: flex;
+    padding-top: 50px;
+    align-items: center;
+    
+}
+li{
+    padding-right: 20px;
+
+}
+
+.courses button{
+    height: 35px;
+    width: 100px;
+    color: white;
+    background: green;
+    cursor: pointer;
+    border-radius: 5px;
+    border-color: 1px white;
+}
+.courses button:hover{
+    color: green;
+    background-color: white;
+}
+
+.ariia button{
+    height: 35px;
+    width: 100px;
+    color: rgb(115, 70, 237);
+    background: white;
+    cursor: pointer;
+    border-radius: 5px;
+    border-color: rgb(115, 70, 237);
+
+}
+.ariia button:hover{
+    color: white;
+    background-color: rgb(115, 70, 237);
+}
+.nirf button{
+    height: 35px;
+    width: 100px;
+    color: orange;
+    background: white;
+    cursor: pointer;
+    border-radius: 5px;
+    border-color: orange;
+
+}
+.nirf button:hover{
+    color: white;
+    background-color: orange;
+}
+.fees button{
+    height: 35px;
+    width: 100px;
+    color: rgb(239, 73, 239);
+    background: white;
+    cursor: pointer;
+    border-radius: 5px;
+    border-color:rgb(235, 66, 235);
+
+}
+.fees button:hover{
+    color: white;
+    background-color: rgb(239, 73, 239);
+}
+.iiqa button{
+    height: 35px;
+    width: 100px;
+    color: rgb(10, 2, 163);
+    background: white;
+    cursor: pointer;
+    border-radius: 5px;
+    border-color: rgb(10, 2, 163);
+
+}
+.iiqa button:hover{
+    color:white;
+    background-color:  rgb(10, 2, 163);
+}
+.iic button{
+    height: 35px;
+    width: 100px;
+    color: rgb(9, 182, 250);
+    background: white;
+    cursor: pointer;
+    border-radius: 5px;
+    border-color: rgb(9, 182, 250);
+
+}
+.iic button:hover{
+    color:  white;
+    background-color: rgb(9, 182, 250);
+}

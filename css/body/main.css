@@ -1,0 +1,33 @@
+.main-body{
+    padding-top: 50px;
+    position: relative;
+}
+
+.main-body .note{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    height: 40px;
+    justify-content: space-between;
+    padding-right: 500px;
+    background-color: rgb(160, 225, 160);
+    background-color: white;
+}
+
+.note .news{
+    padding: 10px;
+background-color: #09933f;
+color: white;
+width: 100px;
+}
+.note button{
+    background-color: green;
+    color: white;
+    width: 100px;
+
+
+}
+.note p{
+    padding-top: 8px;
+    justify-content: center;
+}

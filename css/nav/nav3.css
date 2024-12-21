@@ -1,0 +1,41 @@
+.nav3{
+    height: 40px;
+    background-color: white;
+    position:absolute;
+    z-index: 1000;
+}
+.nav3 ul{
+    display: flex;
+    list-style: none;
+    justify-content: end;
+    padding-left: 75px;
+    padding-right: 50px;
+    cursor: pointer;
+    background-color: rgba(0, 16, 255, 0.51);
+}
+.nav3 ul:hover{
+
+
+}
+.home{
+    padding-top: 12.5px;
+    height: 28px;
+    width: 100px;
+}
+.home:hover{
+    background-color: white;
+    color: rgba(0, 16, 255, 0.51);
+}
+
+.nav3 button{
+    height: 40px;
+    width: 125px;
+    background-color:  rgba(139, 146, 241, 0.193);
+    border: 0ch;
+    font-weight: 500;
+}
+.nav3 button:hover{
+    background-color: white;
+    color: rgba(0, 16, 255, 0.51);
+    font-weight: 700;
+}
